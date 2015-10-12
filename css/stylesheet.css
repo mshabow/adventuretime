@@ -1,0 +1,163 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+nav {
+	background-color: #1E90FF;
+	height: 50px;
+	border-radius: 0px;
+	
+
+}
+#leftnav a {
+	float: left;
+	padding: 8px 8px 8px 8px;
+	font-size: 15px;
+	margin-top: 10px;
+	margin-left: 10px;
+	font-family: Verdana;
+	text-transform: uppercase;
+	text-decoration: none;
+	background-color: yellow;
+	border-radius: 30px;
+	color:  #1E90FF;
+	
+	
+}
+nav ul li  {
+	padding: 8px 8px 8px 8px;
+	font-size: 8px;
+	margin-top: 10px;
+	display: inline-block;
+	float: right;
+    
+}
+
+#buttonthree a {
+	background-color: yellow;
+	text-decoration: none;
+	padding: 8px 8px 8px 8px;
+	font-size: 15px;
+	text-align: center;
+	font-family: Verdana;
+	text-transform: uppercase;
+	text-decoration: none;
+	background-color: yellow;
+	border-radius: 30px;
+	text-decoration: none;
+	color: #1E90FF;
+}
+#buttontwo a {
+	background-color: yellow;
+	text-decoration: none;
+	padding: 8px 8px 8px 8px;
+	margin-top: 10px;
+	font-size: 15px;
+	text-align: center;
+	font-family: Verdana;
+	text-transform: uppercase;
+	text-decoration: none;
+	background-color: yellow;
+	border-radius: 30px;
+	text-decoration: none;
+	color: #1E90FF;
+}
+#buttonone a {
+	background-color: yellow;
+	text-decoration: none;
+	padding: 8px 8px 8px 8px;
+	margin-top: 10px;
+	font-size: 15px;
+	text-align: center;
+	font-family: Verdana;
+	text-transform: uppercase;
+	text-decoration: none;
+	background-color: yellow;
+	border-radius: 30px;
+	text-decoration: none;
+	color: #1E90FF;
+}
+ul li a {
+	text-decoration: none;
+}
+nav div a {
+	color: #FFD700;
+	text-decoration: none;
+}
+
+
+/* end of top nav bar styling*/
+
+
+header {
+	background-color: #FFD700;
+	border-radius: 0px;
+	margin: 10px;
+	box-shadow:3px 3px 1px 1px gray;
+	width: 1200px;
+	
+
+}
+
+div img {
+	height: 200px;
+	width: 200px;
+	margin-top: 50px;
+	margin-left: 500px;
+	margin-right: 300px;
+	margin-bottom: auto;
+	text-align: center;
+	display: inline-block;
+}
+#button a {
+	background-color: #1E90FF;
+	font-family: Verdana;
+	color: white;
+	text-decoration: none;
+	padding: 10px 10px;
+	margin-left: 580px;
+	margin-top: 20px;
+	border-radius: 10px;
+	display: inline-block;
+	text-transform: uppercase;
+	box-shadow: 2px 2px 2px gray;
+
+}
+
+
+/* start of the table games */
+body {
+	background-color: #00CED1;
+
+}
+tr img {
+	width:100px;
+	height:100px;
+	box-shadow: 5px 5px 5px gray;
+}
+
+table {
+	border: 0px white solid;
+	margin-top: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.bottombar {
+	background-color: #FFD700;
+	margin-bottom: 0px;
+	margin-top: 20px;
+	height: 60px;
+	box-shadow:3px 3px 3px 3px gray;
+	
+
+}
+.bottombar span {
+	font-family: Verdana;
+}
+
+
+
+
+
+
